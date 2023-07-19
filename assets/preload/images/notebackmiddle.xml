@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="notebackmiddle.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="back10000" x="4" y="4" width="695" height="665"/>
+	<SubTexture name="back20000" x="703" y="4" width="695" height="665"/>
+	<SubTexture name="back30000" x="4" y="673" width="695" height="665"/>
+	<SubTexture name="back40000" x="703" y="673" width="695" height="665"/>
+	<SubTexture name="back50000" x="4" y="1342" width="695" height="665"/>
+	<SubTexture name="back60000" x="703" y="1342" width="695" height="665"/>
+</TextureAtlas>

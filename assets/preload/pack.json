@@ -1,0 +1,7 @@
+{
+	"name": "Bluescreen",
+	"description": "Your PC ran into a problem and needs to restart, We're just collecting some error info, and then we'll restart for you. 20% complete",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [28, 146, 254]
+}

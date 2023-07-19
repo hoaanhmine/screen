@@ -1,0 +1,32 @@
+{
+	"storyName": "THE BLUESCREEN OF DEATH COMES FOR US ALL the bluescreen of death comes for us all the bluescreen of death c",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "blue",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"BLUESCREEN",
+			"bsod",
+			[
+				0,
+				180,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "bsod"
+}
